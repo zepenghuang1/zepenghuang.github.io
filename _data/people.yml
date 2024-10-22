@@ -2,12 +2,12 @@
 
 
 profx:
-    display_name: "肖航  Hang Xiao"
-    github: xiaohang007
+    display_name: "路德维希·凡·贝多芬Ludwig van Beethoven"
+    github: zepenghuang
     role: faculty
     image: /img/people/hang.jpg
-    bio: 助理教授  Assistant Professor
-    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
+    bio: 音乐家  Musician
+    webpage: "https://baike.baidu.com/item/%E8%B7%AF%E5%BE%B7%E7%BB%B4%E5%B8%8C%C2%B7%E5%87%A1%C2%B7%E8%B4%9D%E5%A4%9A%E8%8A%AC/581912?fr=ge_ala"
 
 scott:
     display_name: "Scott Summers"
@@ -26,68 +26,11 @@ wolverine:
 
 
     
-bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+ Mozart:
+    display_name: "莫扎特 Wolfgang Amadeus Mozart"
     role: grad
-    image: /img/people/bizhu.jpg
 
-kedeng:
-    display_name: "吴克登 Kedeng Wu"
+Schubert:
+    display_name: "舒伯特 Franz Schubert"
     role: grad
-    image: /img/people/kedeng.jpg
 
-storm:
-    display_name: "虚位以待  We need you!"
-    role: grad
-    image: /img/people/need.png
-
-
-
-alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
-
-
-chenxi:
-    display_name: "陈曦 [导师] Xi Chen [Advisor] "
-    role: collab
-
-
-xiaoyang:
-    display_name: "时笑阳 Xiaoyang Shi"
-    role: collab
-
-xiangbiao:
-    display_name: "廖湘标 Xiangbiao Liao"
-    role: collab
-    
-liangliang:
-    display_name: "朱亮亮 Liangliang Zhu"
-    role: collab
-
-chenyan:
-    display_name: "陈炎 Yan Chen"
-    role: collab
-    
-juzheng:
-    display_name: "宋居正 Juzheng Song"
-    role: collab
-
-yayun:
-    display_name: "张亚运 Yayun Zhang"
-    role: collab
-
-dianxing:
-    display_name: "居佃兴 Dianxing Ju"
-    role: collab
-    
-
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
-
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
