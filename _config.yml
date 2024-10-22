@@ -1,5 +1,5 @@
-name: 肖航课题组  Xiao Research Group
-url: https://xiaohang007.github.io/
+name: 贝多芬介绍页  Beethoven introduction page
+url: https://zepenghuang.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -12,13 +12,13 @@ encoding: utf-8
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: 教师 Faculty
+    name: 本人 he
   - key: grad
-    name: 研究生 Graduate Students
+    name: 奏鸣曲 sonata
   - key: ugrad
-    name: 本科生 Undergraduate Students
+    name: 协奏曲 concerto
   - key: collab
-    name: 合作者 Collaborators
+    name: 同时代音乐家 Contemporary musician
 
 
 # Number of news stories on the front page.
@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 科研项目 Research
-    link: /research.html
-  - title: 论文 Publications
-    link: /publications.html
+  - title: 生活 live
+    link: /live.html
+  - title: 作品 music composition
+    link: /music composition.html
